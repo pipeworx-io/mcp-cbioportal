@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-cbioportal",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "cBioPortal MCP — cancer genomics portal.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "cbioportal",
     "gatewaySlug": "cbioportal",
-    "sourceHash": "v1-ffebb9427ed08cf101ddb05bb000c021b97aaf5b7d3de338e37854950f402cb2",
-    "sourceCommit": "4277282d72f9bf55e548b3799aaf737baf22152f"
+    "sourceHash": "v1-c67ff4cce00afb98fad9cf20bcf0ab5f646ffcaf3a355ee566f0ec90f3c51d96",
+    "sourceCommit": "547a3983b42dacf4389ca474860b0a1dee8e6053"
   }
 }
